@@ -1,0 +1,4 @@
+2|AMAZONINC|Toronto|1
+3|Microsoft|Surat|5
+4|Google|Mumbai|2
+1|OpenAI|Halifax|1

@@ -1,0 +1,2 @@
+student_id|int|primarykey
+student_name|varchar

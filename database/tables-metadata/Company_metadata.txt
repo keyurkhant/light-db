@@ -1,0 +1,4 @@
+id|int|primarykey
+name|varchar
+city|varchar
+rank|int

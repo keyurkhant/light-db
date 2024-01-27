@@ -1,0 +1,2 @@
+id|int|primarykey
+name|varchar
